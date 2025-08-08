@@ -1,4 +1,3 @@
-# Check the [installation guide](https://www.youtube.com/watch?v=oswjtLwCUqg) first or just open the [releases](https://github.com/SaHaL1NeZ/HTML5-Universal-Speed-Hack-Crack/releases)
 #### List of changes in crack:
 1. VIP-only restrictions were bypassed
 2. UI was debloated
