@@ -1,0 +1,38 @@
+{
+    "manifest_version": 3,
+    "name": "HTML5 Universal Speed Hack Crack",
+    "author": "SaHaL1NeZ (Original: cheatenginebrasil.com.br)",
+    "description": "Simple yet powerful extension for changing \"speed of content\"",
+    "version": "12.0",
+    "homepage_url": "https://t.me/SaHaL1NeZ",
+    "host_permissions": [
+      "<all_urls>"
+    ],
+    "icons": {
+      "162": "icon.png"
+    },
+    "action": {
+      "default_icon": "icon.png",
+      "default_title": "HTML5 Universal Speed Hack Free",
+      "default_popup": "index.html"
+    },
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "all_frames": true,
+        "world": "MAIN",
+        "run_at": "document_start",
+        "matches": ["<all_urls>"],
+        "js": ["pageScript.js"]
+      },
+      {
+        "all_frames": true,
+        "world": "ISOLATED",
+        "run_at": "document_start",
+        "matches": ["<all_urls>"],
+        "js": ["contentScript.js"]
+      }
+    ]
+  }
