@@ -1,10 +1,11 @@
 # [Universal installation guide](https://www.youtube.com/watch?v=oswjtLwCUqg)
-### List of changes in crack:
+#### List of changes in crack:
 1. VIP-only restrictions were bypassed
 2. UI was debloated
 3. Watermark was changed and fixed
 4. Icon was upscaled by AI and recolored to red
 5. One unnecessary check was removed
-The code was poorly obfuscated by it's [author](https://cheatenginebrasil.com.br), I didn't obfuscate anything, the code is open.
-[Original extension](https://chromewebstore.google.com/detail/html5-universal-speed-hac/eckionmoiajpjncecfebdmmbcboblkja)
-[Author's PayPal](https://www.paypal.com/donate/?hosted_button_id=WBGKBJ73EDAW2) if you want to thank him for his work.
+
+#### The code was poorly obfuscated by it's [author](https://cheatenginebrasil.com.br) (I think?). I didn't obfuscate anything - the code is open.
+## [Original extension](https://chromewebstore.google.com/detail/html5-universal-speed-hac/eckionmoiajpjncecfebdmmbcboblkja)
+## [Author's PayPal](https://www.paypal.com/donate/?hosted_button_id=WBGKBJ73EDAW2) if you want to thank him for his work.
