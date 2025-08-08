@@ -1,4 +1,4 @@
-#### List of changes in crack:
+# List of changes in crack:
 1. VIP-only restrictions were bypassed
 2. UI was debloated
 3. Watermark was changed and fixed
